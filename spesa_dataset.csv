@@ -1,0 +1,1183 @@
+giorno;nome;prezzo;pezzi;iva;tipo;supermercato
+23/06/2020;olio extravergine;3.79;1;4%;olio;Lidl
+23/06/2020;mozzarella multipack;2.69;1;4%;mozzarella;Lidl
+23/06/2020;albume d'uovo;4.47;3;22%;albume d'uovo;Lidl
+23/06/2020;fette d'orate;1.39;1;4%;fette biscottate;Lidl
+23/06/2020;arachidi in guscio tostate;3.98;2;10%;arachidi;Lidl
+23/06/2020;Multivitaminico;1.29;1;10%;integratore;Lidl
+23/06/2020;valeriana;0.99;1;4%;verdura;Lidl
+23/06/2020;tonno al natuale;1.59;1;10%;pesce;Lidl
+23/06/2020;rucola;0.99;1;4%;verdura;Lidl
+23/06/2020;coffettura fruttti di bosco;1.29;1;10%;marmellata;Lidl
+23/06/2020;tartaruga;2.32;8;4%;pane;Lidl
+23/06/2020;prosciutto di praga;1.39;1;10%;affettato;Lidl
+23/06/2020;bocconcini di tacchino;3.49;1;10%;carne bianca;Lidl
+23/06/2020;baguette;1.17;3;4%;pane;Lidl
+23/06/2020;borsa bio degradabile;0.1;1;22%;borsa spesa;Lidl
+23/06/2020;gnochetti tirolesi;1.29;1;4%;gnochetti;Lidl
+25/06/2020;prosciutto di cotto a.q;1.39;1;10%;affettato;Lidl
+25/06/2020;petti di pollo;7.64;1;10%;carne bianca;Lidl
+25/06/2020;acqua naturale;4.08;24;22%;acqua;Lidl
+25/06/2020;gnochetti tirolesi;1.29;1;4%;gnochetti;Lidl
+25/06/2020;misticanza;0.99;1;4%;verdura;Lidl
+25/06/2020;biscotti gelato 3 gusti;1.99;1;10%;gelato;Lidl
+25/06/2020;dentrificio care;0.79;1;22%;dentrificio;Lidl
+25/06/2020;pane bauletto bianco;0.69;1;4%;pane;Lidl
+25/06/2020;filetto salmone naturale;2.19;1;10%;pesce;Lidl
+25/06/2020;nostromo tonno;2.69;1;10%;pesce;Lidl
+25/06/2020;baguette;0.39;1;4%;pane;Lidl
+25/06/2020;tartaruga;2.32;9;4%;pane;Lidl
+27/06/2020;prociutto cotto ;2.39;1;10%;pane;Lidl
+27/06/2020;coca cola zero;1.79;1;22%;bibite;Lidl
+27/06/2020;albume d'uovo;1.49;1;22%;albume d'uovo;Lidl
+27/06/2020;carote;0.99;1;4%;verdura;Lidl
+27/06/2020;gallette mais ;1.7;2;10%;gallette;Lidl
+27/06/2020;lattughino;0.75;1;4%;verdura;Lidl
+27/06/2020;tartaruga;1.74;6;4%;pane;Lidl
+27/06/2020;bocconcini di tacchino;3.49;1;10%;carne bianca;Lidl
+27/06/2020;chicken salad;3.89;1;10%;carne bianca;Lidl
+27/06/2020;baguette;0.78;2;4%;pane;Lidl
+28/06/2020; acqua minerale naturale;2.28;12;22%;acqua;Lidl
+28/06/2020;gelato cioccolato modica;2.29;1;10%;gelato;Lidl
+28/06/2020;provolone piccante;2.29;1;4%;;Lidl
+28/06/2020;estathe pesca;2.98;2;22%;bibite;Lidl
+28/06/2020;ciligie 500g;2.29;1;4%;frutta;Lidl
+28/06/2020;nettare multivitaminico;0.99;1;22%;;Lidl
+28/06/2020;succo d'arancia 100%;1.99;1;22%;bibite;Lidl
+28/06/2020;datterino bio 250g;1.59;1;4%;frutta;Lidl
+28/06/2020;pesche noci bio;1.99;1;4%;frutta;Lidl
+28/06/2020;tris frutti di bosco;2.49;1;4%;frutta;Lidl
+28/06/2020;nocciole sgusciate;1.49;1;10%;frutta secca;Lidl
+28/06/2020;mandorle pelate;1.29;1;4%;frutta secca;Lidl
+28/06/2020;castagne precotte;1.79;1;10%;frutta;Lidl
+28/06/2020;pomodoro ciliegino;1.29;1;4%;verdura;Lidl
+28/06/2020;ghiacciolo;1.74;6;10%;ghiaccioli;Lidl
+28/06/2020;carciofi grigliati;1.99;1;10%;verdura;Lidl
+28/06/2020;salmone norvegese sha.sesamo;2.99;1;10%;pesce;Lidl
+28/06/2020;limoni igp;1.39;1;4%;frutta;Lidl
+28/06/2020;orzo perlato bio;0.89;1;10%;orzo;Lidl
+28/06/2020;olive taggiasche denocciolate;1.49;1;10%;verdura;Lidl
+28/06/2020;bocconcini di polpo;2.49;1;10%;pesce;Lidl
+28/06/2020;farro perlato;1.19;1;10%;farro;Lidl
+28/06/2020;banane;0.93;1;4%;frutta;Lidl
+28/06/2020;pesche piatte 500g;1.49;1;4%;frutta;Lidl
+29/06/2020;grana padano dop;1.29;1;4%;formaggio;Lidl
+29/06/2020;fagiolini 650g xxl;1.89;1;4%;verdura;Lidl
+29/06/2020;bresaola;2.19;1;10%;affettato;Lidl
+29/06/2020;kinder colazione piu ;2.89;1;10%;briosche;Lidl
+29/06/2020;tartaruga;1.45;5;4%;pane;Lidl
+29/06/2020;pesche piatte 500g;1.49;1;4%;frutta;Lidl
+29/06/2020;shopper biodegradabile;0.2;1;22%;borsa spesa;Lidl
+29/06/2020;acqua minerale frizzante;0.19;1;22%;acqua;Lidl
+29/06/2020;yoga succo pesca;2.38;2;10%;yogurt;Lidl
+29/06/2020;fag.cannellini;0.35;1;4%;verdura;Lidl
+29/06/2020;pane bauletto bianco;0.69;1;10%;pane;Lidl
+29/06/2020;nostromo tonno;2.69;1;22%;pesce;Lidl
+29/06/2020;spazzola capelli lidl;2.19;1;22%;none;Lidl
+29/06/2020;confettura lamponi;1.49;1;10%;marmellata;Lidl
+29/06/2020;arachidi in guscio tostate;1.99;1;10%;frutta secca;Lidl
+30/06/2020;albume d'uovo;2.98;2;22%;albume d'uovo;Lidl
+30/06/2020;petti di pollo;6.69;1;10%;carne bianca;Lidl
+30/06/2020;shopper biodegradabile;0.2;2;22%;borsa spesa;Lidl
+30/06/2020;patate 1,5kg;1.89;1;4%;patate;Lidl
+30/06/2020;baguette;0.39;1;4%;pane;Lidl
+30/06/2020;tartaruga;1.74;6;4%;pane;Lidl
+30/06/2020;muesli frutta;2.25;1;10%;cereali;Lidl
+30/06/2020;fette biscottate;1.15;1;4%;fette biscottate;Lidl
+30/06/2020;chewin gum white;1.99;1;10%;cicche;Lidl
+30/06/2020;bevanda ace;1.98;2;22%;bevande;Lidl
+01/07/2020;rio mare fil.sgombro;2.78;2;10%;pesce;Lidl
+01/07/2020;baguette;0.78;2;4%;pane;Lidl
+01/07/2020;salume di manzo;1.49;1;10%;affettato;Lidl
+01/07/2020;tartaruga;2.61;9;4%;pane;Lidl
+01/07/2020;mix formaggio duro 100g;1.09;1;4%;formaggio;Lidl
+01/07/2020;granrolo mozzarella;2.99;1;4%;mozzarella;Tosano
+01/07/2020;mila yogurt grassi fr ce.g;2.15;1;10%;yogurt;Tosano
+01/07/2020;rummo elicodili n.49;1.4;1;4%;pasta;Tosano
+01/07/2020;trevalli latte uht vividi;0.95;1;4%;latte;Tosano
+01/07/2020;trevalli latte uht vivisa;1.9;2;4%;latte;Tosano
+01/07/2020;ris tortig tra br;0.49;1;4%;none;Tosano
+01/07/2020;buitoni granfetta 60 20;1.49;1;4%;fette biscottate;Tosano
+01/07/2020;gatorade lemon ice ml.500;6.6;12;4%;bevande energetiche;Tosano
+01/07/2020;riso thaybonnet cellophan;1.0;1;4%;riso;Tosano
+01/07/2020;sapore riso thaybonnet;0.8;1;4%;riso;Tosano
+01/07/2020;mulino bianco galletti;1.99;1;10%;biscotti;Tosano
+01/07/2020;ris tortig tra br;0.49;1;4%;none;Tosano
+01/07/2020;rummo elicodali n.49;1.4;1;4%;pasta;Tosano
+01/07/2020;rummo fusilli n.48;1.4;1;4%;pasta;Tosano
+01/07/2020;matt gallette mais;0.99;1;10%;gallette;Tosano
+01/07/2020;v.love fiocchi int avena;2.37;3;10%;avena;Tosano
+01/07/2020;ventura arachidi egitto;8.25;3;10%;fruttasecca;Tosano
+01/07/2020;trevalli latte uht vividi;2.85;3;4%;latte;Tosano
+01/07/2020;sant'anna acqua naturale;6.0;24;22%;acqua;Tosano
+01/07/2020;acqua naturale;6.0;24;22%;acqua;Tosano
+01/07/2020;coca cola zero bipack;2.95;1;22%;bevande;Tosano
+01/07/2020;matt gallette mais;0.99;1;10%;gallette;Tosano
+01/07/2020;illY espresso decaffeinato 250gr;4.99;1;22%;caffe;Tosano
+01/07/2020;rigamonti bresaola equina;1.99;1;10%;affettato;Tosano
+01/07/2020;life castagne cotte;2.5;1;4%;frutta;Tosano
+01/07/2020;fruttissmia alibicocca;0.99;1;4%;frutta;Tosano
+01/07/2020;rio mare 80x4;3.95;1;10%;pesce;Tosano
+01/07/2020;d'amico lampascioni;2.7;1;10%;verdura;Tosano
+01/07/2020;fruttissima succo pesca;0.99;1;22%;bevande;Tosano
+01/07/2020;baguette tipo 0;0.52;1;4%;pane;Tosano
+01/07/2020;iposea olive leccino den;2.0;1;10%;verdura;Tosano
+01/07/2020;tuc snack 100x3;1.6;1;4%;craker;Tosano
+01/07/2020;fuze mango camomilla ml4;3.6;12;22%;camomilla;Tosano
+01/07/2020;marmellata lampone;1.25;1;22%;marmellata;Tosano
+01/07/2020;miele rigoni gr;4.99;1;10%;miele;Tosano
+01/07/2020;bravo rauch fr.bosco;0.99;1;22%;bevande;Tosano
+01/07/2020;arizona cowboy melone;0.99;1;22%;bevande;Tosano
+01/07/2020;parmiggiano reggiano 30m;5.9;1;4%;formaggio;Tosano
+01/07/2020;trentin grana dop 250g;3.99;1;4%;formaggio;Tosano
+01/07/2020;marmellata lampone;1.25;1;22%;marmellata;Tosano
+01/07/2020;rigone miele tiglio;3.99;1;10%;miele;Tosano
+01/07/2020;valfrutta combi limonata;0.79;1;22%;bevande;Tosano
+01/07/2020;life madorle pelate;1.5;1;4%;frutta secca;Tosano
+01/07/2020;furocom.mix frutti rossi;1.6;1;4%;frutta;Tosano
+01/07/2020;banane;1.65;1;4%;frutta;Tosano
+01/07/2020;sacchetto ortofrutta;0.01;1;10%;borsa spesa;Tosano
+01/07/2020;sacchetto ortofrutta;0.01;1;10%;borsa spesa;Tosano
+01/07/2020;meloni gialli;1.94;1;4%;frutta;Tosano
+01/07/2020;for pecorino latte crudo;2.33;1;4%;formaggio;Tosano
+01/07/2020;carote;1.2;1;4%;verdura;Tosano
+01/07/2020;patata;1.9;1;4%;verdura;Tosano
+01/07/2020;noberasco castagne;2.25;1;4%;frutta;Tosano
+01/07/2020;rigoni miele d.bosco;3.6;1;10%;miele;Tosano
+01/07/2020;paprika forte;3.7;1;10%;spezie;Tosano
+01/07/2020;petto pollo;4.84;1;10%;carne bianca;Tosano
+02/07/2020;fesa tacchino tranci;6.51;1;10%;carne bianca;Conad
+02/07/2020;peperone;0.66;1;4%;verdura;Conad
+02/07/2020;sacchetto frutta;0.01;1;22%;sacchetto spesa;Conad
+02/07/2020;pomodoro cuore bue;1.54;1;1%;verdura;Conad
+02/07/2020;sacchetto frutta;0.01;1;22%;sacchetto spesa;Conad
+02/07/2020;mozzarella centrale latte brescia;2.99;1;4%;mozzarella;Conad
+02/07/2020;rosettina;1.11;1;4%;none;Conad
+02/07/2020;deo nivea black;2.49;1;4%;none;Conad
+02/07/2020;albicocche;3.78;1;4%;frutta;Conad
+02/07/2020;tarallini o.oliva;2.49;1;10%;crackers;Conad
+02/07/2020;mini cookies;1.19;1;10%;biscotti;Conad
+02/07/2020;pesca gialla;2.28;1;4%;frutta;Conad
+02/07/2020;carta fotocop.a4;4.1;1;22%;none;Conad
+03/07/2020;effervescente;1.29;1;10%;none;Lidl
+03/07/2020;tartaruga;0.87;3;4%;pane;Lidl
+03/07/2020;tartaruga;2.9;10;4%;pane;Lidl
+03/07/2020;biscotto gel.3 gusti;1.99;1;10%;gelato;Lidl
+03/07/2020;uova all.terra;1.15;1;10%;uova;Lidl
+04/07/2020;patate 4kg;3.99;1;4%;patate;Lidl
+04/07/2020;albume d'uovo;2.98;2;22%;albume d'uovo;Lidl
+04/07/2020;rio mare sgombro;2.78;2;10%;pesce;Lidl
+04/07/2020;fichi freschi;2.49;1;4%;frutta;Lidl
+04/07/2020;pesche piatte 500g;1.49;1;4%;frutta;Lidl
+04/07/2020;borsa spesa carta;0.12;1;22%;borsa spesa;Lidl
+04/07/2020;ciligie 500g;2.99;1;4%;frutta;Lidl
+04/07/2020;ribes 125g;1.69;1;4%;frutta;Lidl
+04/07/2020;tris frutti di boscro;2.49;1;4%;frutta;Lidl
+04/07/2020;filetti alici marin.;2.99;1;10%;pesce;Lidl
+04/07/2020;mirtilli;1.25;1;4%;frutta;Lidl
+04/07/2020;sacchetto ortofrutta;1.25;1;4%;borsa spesa;Lidl
+04/07/2020;sacchetto ortofrutta;1.25;1;4%;borsa spesa;Lidl
+04/07/2020;melone giallo;2.11;1;4%;frutta;Lidl
+04/07/2020;pomodoro ciliegino;1.39;1;4%;verdura;Lidl
+04/07/2020;philadelphia light;1.99;1;4%;formaggio;Lidl
+04/07/2020;bastonc.ciocc.fonde;1.29;1;10%;dolce;Lidl
+04/07/2020;ghiaccioli assortiti;2.98;2;10%;ghiaccioli;Lidl
+04/07/2020;cookies cioccolata;1.19;1;10%;dolce;Lidl
+04/07/2020;sfogliatine;0.59;1;10%;none;Lidl
+04/07/2020;panino tondo;0.19;1;4%;pane;Lidl
+04/07/2020;moretti birra sicil.;1.19;1;22%;birra;Lidl
+04/07/2020;yoga succo pera;2.38;2;22%;bevande;Lidl
+04/07/2020;poretti fiorita;2.99;1;22%;birra;Lidl
+04/07/2020;insalata iceberg;0.99;1;4%;verdura;Lidl
+04/07/2020;pesche noci 1kg;1.49;1;4%;frutta;Lidl
+04/07/2020;fagiolini 650g xxl;1.89;1;4%;verdura;Lidl
+04/07/2020;salmone scozzese aff;3.19;1;10%;pesce;Lidl
+04/07/2020;bresaola;2.19;1;10%;affettato;Lidl
+04/07/2020;spian.picc.affettata;1.99;1;10%;affettato;Lidl
+04/07/2020;banane;1.06;1;4%;frutta;Lidl
+04/07/2020;susine 1kg;2.29;1;4%;frutta;Lidl
+04/07/2020;castagne precotte;1.79;1;10%;frutta;Lidl
+05/07/2020;tonno al naturale;1.59;1;10%;pesce;Lidl
+05/07/2020;rio mare fil.sgombro;2.78;1;10%;pesce;Lidl
+05/07/2020;petti di pollo;8.26;1;10%;carne bianca;Lidl
+07/07/2020;meloni gialli;3.67;1;4;frutta;Esselunga
+07/07/2020;susine rosse;2.85;1;4;frutta;Esselunga
+07/07/2020;insalata mista smart;1.25;1;4;verdura;Esselunga
+07/07/2020;pesche gialle cass;4.0;1;4;frutta;Esselunga
+07/07/2020;anguria baby;2.73;1;4;frutta;Esselunga
+07/07/2020;carote;0.98;1;4;verdura;Esselunga
+07/07/2020;banane;2.17;1;4;frutta;Esselunga
+07/07/2020;perini insalatari;2.06;1;4;none;Esselunga
+07/07/2020;parmigiano reggiano gratt.dop;1.62;1;4;formaggio;Esselunga
+07/07/2020;granar.burro classico;2.59;1;4;burro;Esselunga
+07/07/2020;croissan class.bauli;0.68;1;10;briosche;Esselunga
+07/07/2020;m.biano ritornelli;2.69;1;10;biscotti;Esselunga
+07/07/2020;palline esselunga;0.63;1;10;none;Esselunga
+07/07/2020;smart bresaola;2.09;1;10;affettato;Esselunga
+07/07/2020;smart bresaola;2.09;1;10;affettato;Esselunga
+07/07/2020;palline esselunga;0.63;1;10;none;Esselunga
+07/07/2020;ess.pane farina integ.;0.69;1;4;pane;Esselunga
+07/07/2020;ess.pane farina integ.;0.69;1;4;pane;Esselunga
+07/07/2020;gorgonzola dop smart;1.64;1;4;formaggio;Esselunga
+07/07/2020;birra becks 6 bott;2.99;1;22;birra;Esselunga
+07/07/2020;morpol salmone norvegese;3.33;1;10;pesce;Esselunga
+07/07/2020;branzino spigola;3.42;1;10;pesce;Esselunga
+07/07/2020;latte int uht ess;0.92;1;4;latte;Esselunga
+07/07/2020;esse top lasagne rus;1.29;1;4;none;Esselunga
+07/07/2020;esse top lasagne rus;1.29;1;4;none;Esselunga
+07/07/2020;smart latte uht ps;0.65;1;4;latte;Esselunga
+07/07/2020;pollo petti c.r;4.9;1;10;carne bianca;Esselunga
+07/07/2020;vit.trita scelta;2.64;1;10;carne rossa;Esselunga
+07/07/2020;vit.trita scelta;2.71;1;10;carne rossa;Esselunga
+07/07/2020;filone grano duro;2.05;1;10;pane;Esselunga
+07/07/2020;bar.delizie pistacc.;1.56;1;10;dolci;Esselunga
+07/07/2020;norta nat;6.0;12;10;acqua;Esselunga
+07/07/2020;ghiaccioli;2.99;1;10;ghiaccioli;Esselunga
+07/07/2020;smart nettare albicocca;0.69;1;10;bevande;Esselunga
+07/07/2020;smart nettare albicocca;0.69;1;10;bevande;Esselunga
+07/07/2020;smart nettare pesca;0.69;1;10;bevande;Esselunga
+07/07/2020;smart nettare albic;0.79;1;10;bevande;Esselunga
+07/07/2020;super ammoniaca prof;0.75;1;10;none;Esselunga
+07/07/2020;pnt shampoo;2.99;1;10;none;Esselunga
+07/07/2020;smart caffe classico;1.78;2;10;caffe;Esselunga
+07/07/2020;tuc crispy apprika;1.47;1;10;crackers;Esselunga
+05/07/2020;tartruga;1.74;6;4;pane;Lidl
+05/07/2020;gelato ciocc.modica;2.29;1;10;gelato;Lidl
+05/07/2020;lattughino bio;0.99;1;4;verdura;Lidl
+05/07/2020;coppa al caffe;1.39;1;10;gelato;Lidl
+08/07/2020;olio extra vergine;4.19;1;4;olio;Lidl
+08/07/2020;ammorb.aria primavera;1.79;1;22;none;Lidl
+08/07/2020;balsamo timo ortica;2.99;1;22;shampoo;Lidl
+08/07/2020;colgate prot.caries;1.49;1;22;dentrificio;Lidl
+08/07/2020;doccia gel tiare;1.19;1;22;shampoo;Lidl
+08/07/2020;colgate sensation wh;2.39;1;22;dentrificio;Lidl
+08/07/2020;vidal mora muschio;0.79;1;22;shampoo;Lidl
+08/07/2020;wurstel croissant;1.59;2;10;none;Lidl
+09/07/2020;acqua naturale;4.08;24;22;acqua;Lidl
+09/07/2020;baguette;0.39;1;4;pane;Lidl
+09/07/2020;albume d'uovo;4.47;3;22;albume d'uovo;Lidl
+09/07/2020;salame milano;0.99;1;10;salame;Lidl
+09/07/2020;tagliata di pollo;11.96;4;10;carne bianca;Lidl
+09/07/2020;edamer a fette;1.29;1;4;formaggio;Lidl
+09/07/2020;aceto di mele;0.89;1;10;aceto;Lidl
+09/07/2020;rucola;0.99;1;4;verdura;Lidl
+10/07/2020;vaschetta gelato;15.0;2;4;gelato;Christian_Gelataio
+10/07/2020;frutti di mare;14.0;1;4;pesce;Christian_Gelataio
+11/07/2020;tartaruga;2.61;9;4;pane;Lidl
+11/07/2020;banane;1.02;1;4;frutta;Lidl
+11/07/2020;sacchetto;0.01;1;4;borsa spesa;Lidl
+11/07/2020;borsa spesa;0.2;1;22;borsa spesa;Lidl
+11/07/2020;burro pastorizzato;1.19;1;4;burro;Lidl
+11/07/2020;marmellata lamponi;1.99;1;10;marmellata;Lidl
+11/07/2020;salsa pomodoro;0.99;1;10;passata pomodoro;Lidl
+11/07/2020;derby blue zero ross;0.99;1;22;none;Lidl
+11/07/2020;coca cola zero;1.69;1;22;bevande;Lidl
+11/07/2020;acqua min.efferv;0.26;1;22;acqua;Lidl
+11/07/2020;salame piccante;1.99;1;10;affettato;Lidl
+11/07/2020;macinato misto;3.15;1;10;carne rossa;Lidl
+11/07/2020;pomodori datterini;0.69;1;4;verdura;Lidl
+11/07/2020;anguria;1.62;1;4;frutta;Lidl
+13/07/2020;mirtilli;1.19;1;4;frutta;Lidl
+13/07/2020;uva bianca 1kg;2.49;1;4;frutta;Lidl
+13/07/2020;crescenza;1.79;1;4;frutta;Lidl
+13/07/2020;tartaruga;2.9;10;4;pane;Lidl
+13/07/2020;coca cola zero 0.5l;1.6;1;22;bevande;Lidl
+13/07/2020;confettura lampone;1.99;1;10;marmellata;Lidl
+13/07/2020;riso basmati;3.29;1;4;riso;Lidl
+13/07/2020;petit 5 cereali;1.29;1;10;cereali;Lidl
+13/07/2020;yoga succo pera;1.19;1;22;yogurt;Lidl
+13/07/2020;yoga succo ace;1.19;1;22;yogurt;Lidl
+13/07/2020;petti di pollo;6.72;1;10;carne bianca;Lidl
+13/07/2020;bauli crois;1.39;1;10;briosche;Lidl
+13/07/2020;tav.eff.magnesio;1.29;1;10;integratore;Lidl
+13/07/2020;tav.eff.vitaminaC;1.29;1;10;integratore;Lidl
+13/07/2020;rucola bio;0.99;1;4;verdura;Lidl
+13/07/2020;bisc.gocce ciocc ext;1.49;1;10;biscotti;Lidl
+13/07/2020;banane;1.49;1;4;frutta;Lidl
+13/07/2020;sacchetto;0.01;1;4;borsa spesa;Lidl
+15/07/2020;acqua naturale;5.1;30;22;acqua;Lidl
+15/07/2020;acqua min.frizzante;1.14;6;22;acqua;Lidl
+15/07/2020;latte senza latt;1.98;2;4;latte;Lidl
+15/07/2020;rucola;0.99;1;4;verdura;Lidl
+15/07/2020;filone di semola;1.49;1;4;pane;Lidl
+15/07/2020;salmone scozzese;2.23;1;10;pesce;Lidl
+15/07/2020;emmental a fette;1.69;1;4;formaggio;Lidl
+15/07/2020;muesli frutta;2.25;1;10;avena;Lidl
+15/07/2020;fette biscottate;1.15;1;4;fette biscottate;Lidl
+15/07/2020;tonno;1.59;1;10;pesce;Lidl
+15/07/2020;pane baul.intergrale;0.75;1;4;pane;Lidl
+15/07/2020;pane baul.bianco;0.69;1;4;pane;Lidl
+15/07/2020;coca cola zero 0,5L;1.58;3;22;bevande;Lidl
+15/07/2020;cicche;1.99;1;10;cicche;Lidl
+16/07/2020;tovaglioli colorati;0.59;1;22;none;Lidl
+16/07/2020;buali crois;1.39;1;10;brioche;Lidl
+16/07/2020;det.wc fresch.limone;0.99;1;22;none;Lidl
+16/07/2020;lenor amm.oro vaniglia;1.79;1;22;none;Lidl
+16/07/2020;uova fresche terra;1.69;1;10;uova;Lidl
+16/07/2020;latte senza latt;1.98;2;4;latte;Lidl
+16/07/2020;candeggina non profu;0.53;1;22;none;Lidl
+16/07/2020;pas.sfoglia.marg;1.38;2;10;pasta sfoglia;Lidl
+16/07/2020;microfiori spinaci;0.99;1;4;verdura;Lidl
+16/07/2020;doria biscotti atene;1.99;1;10;biscotti;Lidl
+16/07/2020;parm.regg.dop;4.69;1;4;formaggio;Lidl
+16/07/2020;anguria;1.99;1;4;frutta;Lidl
+16/07/2020;carta igenica;1.49;1;22;none;Lidl
+16/07/2020;spugnette cucina;1.29;1;22;none;Lidl
+16/07/2020;ricotta;1.1;2;4;formaggio;Lidl
+16/07/2020;pomodorini;0.56;1;4;verdura;Lidl
+16/07/2020;svelto eco ricarica;2.19;1;22;detersivo;Lidl
+16/07/2020;olive nere denocc;0.99;1;10;verdura;Lidl
+16/07/2020;tartaruga;2.9;10;4;pane;Lidl
+16/07/2020;zucchine;0.93;1;4;verdura;Lidl
+16/07/2020;lamponi 250g;1.99;1;4;frutta;Lidl
+16/07/2020;mirtilli;1.49;1;4;frutta;Lidl
+16/07/2020;ciliegie 500g;3.49;1;4;frutta;Lidl
+16/07/2020;cipolle rosse igp;2.29;1;4;frutta;Lidl
+16/07/2020;borsa;0.1;1;22;borsa spesa;Lidl
+16/07/2020;petit 5 cereali;1.29;1;10;biscotti;Lidl
+16/07/2020;melone giallo;2.24;1;4;frutta;Lidl
+16/07/2020;banane;1.04;1;4;frutta;Lidl
+16/07/2020;mozzarella no mangimi;1.05;1;4;mozzarella;Lidl
+16/07/2020;per.bev.caff.ginsen;1.19;1;10;caffe;Lidl
+16/07/2020;segafredo caffe;2.49;1;22;caffe;Lidl
+16/07/2020;rucola bio;0.99;1;4;verdura;Lidl
+16/07/2020;mozzarella latte it;0.59;1;4;mozzarella;Lidl
+16/07/2020;salmone norvegese;4.49;1;10;pesce;Lidl
+16/07/2020;alg affog tripl;2.59;1;10;dolce;Lidl
+16/07/2020;set pennelli blu;3.99;1;22;none;Lidl
+16/07/2020;pesche noci piatte;4.98;2;4;frutta;Lidl
+16/07/2020;peperoni rossi;0.66;1;4;verdura;Lidl
+16/07/2020;fichi freschi;2.49;1;4;frutta;Lidl
+16/07/2020;uva bianca 1kg;2.49;1;4;frutta;Lidl
+14/07/2020;yoga succo ace;4.76;4;22;bevande;Lidl
+14/07/2020;albume d'uovo;2.98;2;22;albume d'uovo;Lidl
+14/07/2020;gnocchetti tirolesi;2.58;2;4;gnocchetti;Lidl
+14/07/2020;yoga succo pera;1.19;1;22;bevande;Lidl
+14/07/2020;melone giallo;2.12;1;4;frutta;Lidl
+14/07/2020;carote;0.99;1;4;verdura;Lidl
+14/07/2020;fesa tacchino;4.49;1;10;carne bianca;Lidl
+14/07/2020;filetto di pollo;8.38;2;10;carne bianca;Lidl
+14/07/2020;pane bauletto bianco;0.69;1;4;pane;Lidl
+14/07/2020;grana padano gratt;2.49;1;4;formaggio;Lidl
+14/07/2020;edamer a fette;1.29;1;4;formaggio;Lidl
+14/07/2020;shopper biodeg;0.20;2;22;borsa spesa;Lidl
+14/07/2020;puccia salentina;1.09;1;10;pane;Lidl
+14/07/2020;krafen con crema;0.98;1;10;dolce;Lidl
+14/07/2020;prosciutto cotto toast;2.39;1;10;affettato;Lidl
+14/07/2020;sprite;1.60;3;22;bevande;Lidl
+14/07/2020;gallette riso;0.59;1;10;gallette;Lidl
+14/07/2020;gallette mais;0.89;1;10;gallette;Lidl
+14/07/2020;gallette cereali;0.89;1;10;gallette;Lidl
+14/07/2020;mousse bio mela;0.79;1;10;yogurt;Lidl
+14/07/2020;pane baul interg;0.75;1;4;pane;Lidl
+14/07/2020;prosciutto crudo stag.aff;2.79;1;10;affettato;Lidl
+16/07/2020;mb abbracci 700g;2.79;1;10;biscotti;Conad
+16/07/2020;mb ritornelli 700g;2.79;1;10;biscotti;Conad
+16/07/2020;patatine rustiche;2.10;1;10;patatine;Conad
+16/07/2020;aper conad bitter;1.35;1;22;alcolici;Conad
+16/07/2020;birra rossa artigianale;4.49;1;22;birra;Conad
+16/07/2020;eldorada olio oliva;1.19;1;10;none;Conad
+16/07/2020;sfoglie pat.veggy;1.19;1;1.;patatine;Conad
+16/07/2020;pros.brut milles;7.49;1;22;alcolici;Conad
+16/07/2020;stick salati cameo;0.68;1;10;none;Conad
+16/07/2020;crostini pomod/basi;0.99;1;4;none;Conad
+16/07/2020;form.stanga cis;3.09;1;4;none;Conad
+20/07/2020;shopper bio tosano;0.3;3;22;borsa spesa;Tosano
+20/07/2020;felice azz.amm.ambra;1.95;1;22;none;Tosano
+20/07/2020;trevisan gallette mais.bio;0.95;1;10;gallette;Tosano
+20/07/2020;scottez igenica style;1.50;1;22;none;Tosano
+20/07/2020;valfrutta combi ananas;1.58;2;22;bevande;Tosano
+20/07/2020;valfrutta combi ace;0.79;1;22;bevande;Tosano
+20/07/2020;melone reato offerta;4.12;1;4;frutta;Tosano
+20/07/2020;sacchetto ortofrutta;0.01;1;10;borsa spesa;Tosano
+20/07/2020;valmora acqua nat lt.1.5;4.80;24;22;acqua;Tosano
+20/07/2020;sant'anna acqua nat;7.20;24;22;acqua;Tosano
+20/07/2020;s.francesco acqua nat.lt;3.36;24;22;acqua;Tosano
+20/07/2020;acqua naturale;6.00;24;22;acqua;Tosano
+20/07/2020;tassoni cedrata soda x6;3.50;1;22;bevande;Tosano
+20/07/2020;parm.regg.24m.t.scarpa;4.00;1;4;formaggio;Tosano
+20/07/2020;pedegree straccetti;0.95;1;22;none;Tosano
+20/07/2020;valfrutta combi vitamix;0.79;1;22;bevande;Tosano
+20/07/2020;britti gall.mais riso;0.65;1;10;gallette;Tosano
+20/07/2020;limoni rete gr 500;1.00;1;4;frutta;Tosano
+20/07/2020;bio presto liq.color;3.99;1;22;none;Tosano
+20/07/2020;latte accadi;5.94;1;4;latte;Tosano
+20/07/2020;banane;1.27;1;4;frutta;Tosano
+20/07/2020;avesani gnoc.tirol.verdi;3.00;2;4;gnocchetti;Tosano
+20/07/2020;dermomed sap.liq.ric.pesc;0.69;1;22;none;Tosano
+20/07/2020;stuffer pas.sf.light rot;0.80;1;10;none;Tosano
+20/07/2020;noce a pezzi per fettine;5.07;1;10;frutta secca;Tosano
+20/07/2020;petto di pollo;7.66;1;10;carne bianca;Tosano
+20/07/2020;friskies junior sacco;3.50;1;22;patatine;Tosano
+20/07/2020;rigoni miele d.bosco bio;3.60;1;10;miele;Tosano
+20/07/2020;gelato pinta fragola;0.99;1;10;gelato;Tosano
+20/07/2020;buitoni granfetta 60 20;1.49;1;4;fette biscottate;Tosano
+20/07/2020;riso scotti basmati;1.80;1;4;riso;Tosano
+20/07/2020;campanini riso canar;1.40;1;4;riso;Tosano
+20/07/2020;indian 8 sorbettini;1.00;1;10;none;Tosano
+20/07/2020;rigoni miele limone bio;3.80;1;10;miele;Tosano
+20/07/2020;ciabatta di semola;1.48;1;4;pane;Tosano
+20/07/2020;lindt excell.nocciola;0.89;1;10;dolce;Tosano
+20/07/2020;lindtexcellence albicocca;0.89;1;10;dolce;Tosano
+20/07/2020;capit.collut.ox;0.99;1;22;none;Tosano
+20/07/2020;mareblu tonno meno olio;4.20;1;10;pesce;Tosano
+20/07/2020;pr.conf.carote vassoio;1.00;1;4;verdura;Tosano
+20/07/2020;pane bianco barilla;0.75;1;4;pane;Tosano
+20/07/2020;bonne maman ciliegia;1.95;1;10;frutta;Tosano
+20/07/2020;bonne maman fr.bosco;2.10;1;10;frutta;Tosano
+20/07/2020;torrebianca barr.cioc.lat;0.99;1;10;cioccolato;Tosano
+20/07/2020;brimi mozzarella;2.39;1;4;mozzarella;Tosano
+20/07/2020;hosten fiocchi avena;1.09;1;10;avena;Tosano
+20/07/2020;aceto di mele;0.99;1;10;aceto;Tosano
+20/07/2020;klln f.avena rob;1.60;1;10;avena;Tosano
+20/07/2020;klln f.avena teneri;1.60;1;10;avena;Tosano
+20/07/2020;capitano collutorio;0.99;1;22;none;Tosano
+20/07/2020;kellog's choco krave;3.99;1;10;cereali;Tosano
+20/07/2020;miele rigoni famiglia;4.99;1;10;miele;Tosano
+20/07/2020;colgate dentrificio baking.soda;1.50;3;22;dentrificio;Tosano
+20/07/2020;birra heineken vap;2.40;2;22;birra;Tosano
+18/07/2020;albume d'uovo;2.98;1;22;albume d'uovo;Lidl
+18/07/2020;filetti tonno;1.99;1;10;pesce;Lidl
+18/07/2020;tonno al naturale;3.18;2;10;pesce;Lidl
+18/07/2020;baguette;0.39;1;4;pane;Lidl
+18/07/2020;gallette riso;0.59;1;10;gallette;Lidl
+20/07/2020;panino tondo;1.14;6;4;pane;Lidl
+20/07/2020;pesche noci;1.89;1;4;frutta;Lidl
+20/07/2020;bresaola;2.19;1;10;affettato;Lidl
+20/07/2020;edamer a fette;1.29;1;4;formaggio;Lidl
+20/07/2020;cuori di icerberg;0.99;1;4;verdura;Lidl
+20/07/2020;uva bianca igp;3.49;1;4;frutta;Lidl
+20/07/2020;muosse bio mela;0.79;1;10;mousse;Lidl
+20/07/2020;tav.eff.vitamine;1.29;1;10;integratore;Lidl
+22/07/2020;cappelle.prosc.crudo;1.98;2;10;affettato;Lidl
+22/07/2020;grana padano gratt;2.49;1;4;formaggio;Lidl
+22/07/2020;succo di ananas;0.99;1;4;bevande;Lidl
+22/07/2020;prosc.cotto toast;2.39;1;10;affettato;Lidl
+22/07/2020;uova fresche terra;1.18;1;10;uova;Lidl
+22/07/2020;bevanda ace;0.99;1;22;frutta;Lidl
+22/07/2020;shopper biodegradabile;0.1;1;22;borsa spesa;Lidl
+22/07/2020;ghiaccioli assortiti;1.49;1;10;ghiaccioli;Lidl
+22/07/2020;pane baul.bianco;1.38;;4;pane;Lidl
+22/07/2020;pomodoro oblungo;0.91;1;4;verdura;Lidl
+22/07/2020;sacchetto ortofrutta;0.01;1;4;borsa spesa;Lidl
+22/07/2020;macinato bovino adulto;3.49;1;10;carne rossa;Lidl
+22/07/2020;burro pastorizzato;1.69;1;4;burro;Lidl
+22/07/2020;insalata iceberg;0.99;1;4;verdura;Lidl
+22/07/2020;pesche piatte;1.29;1;4;frutta;Lidl
+22/07/2020;pesche noci piatte;2.49;1;4;frutta;Lidl
+22/07/2020;rosetta;1.53;9;4;pane;Lidl
+22/07/2020;bastone di sal.dolce;2.19;1;10;none;Lidl
+22/07/2020;banane;1.56;1;4;frutta;Lidl
+23/07/2020;melone giallo;2.24;1;4;frutta;Lidl
+23/07/2020;sacchetto ortofrutta;0.02;2;4;borsa spesa;Lidl
+23/07/2020;prosc.cotto toast;2.39;1;10;affettato;Lidl
+23/07/2020;prosc.crudo stagionato;2.99;1;10;affettato;Lidl
+23/07/2020;coca cola zero;1.69;1;22;bevande;Lidl
+23/07/2020;lattughino;0.99;1;4;verdura;Lidl
+23/07/2020;mirtilli;1.49;1;4;frutta;Lidl
+23/07/2020;salmone scozzese aff;2.49;1;10;pesce;Lidl
+23/07/2020;fesa tacchino fette;8.98;3;10;carne bianca;Lidl
+23/07/2020;baguette;0.39;1;4;pane;Lidl
+23/07/2020;puccia salentina;1.09;1;4;pane;Lidl
+23/07/2020;filetti alici marin.;2.99;1;10;pesce;Lidl
+23/07/2020;carciofi grigliati;1.49;1;10;verdura;Lidl
+23/07/2020;edamer a fette;1.29;1;4;formaggio;Lidl
+23/07/2020;rucola xxl;1.49;1;4;verdura;Lidl
+23/07/2020;bocconcini polpo;2.69;1;10;pesce;Lidl
+23/07/2020;limoni;1.99;1;4;frutta;Lidl
+23/07/2020;ciliegie 500g;2.99;1;4;frutta;Lidl
+23/07/2020;pesche piatte;1.29;1;4;frutta;Lidl
+23/07/2020;banane;1.95;1;4;frutta;Lidl
+25/07/2020;gelato ciocc.modica;2.29;1;10;gelato;Lidl
+25/07/2020;bastonc.ciocc.latte;2.58;;10;dolce;Lidl
+25/07/2020;olio evo dop;4.99;1;4;olio;Lidl
+25/07/2020;carta da forno;1.79;1;22;none;Lidl
+25/07/2020;ass.interni normale;1.99;1;22;none;Lidl
+25/07/2020;bocconcini di polpo;2.69;1;10;pesce;Lidl
+25/07/2020;panno spugna;0.99;1;22;none;Lidl
+25/07/2020;ghiaccioli assortiti;1.49;1;10;ghiaccioli;Lidl
+25/07/2020;panino tondo;1.14;6;4;pane;Lidl
+25/07/2020;tartaruga;2.61;9;4;pane;Lidl
+25/07/2020;birra in bottiglia;1.58;2;22;birra;Lidl
+25/07/2020;acqua tonica;1.69;1;22;bevande;Lidl
+25/07/2020;banane;0.87;1;4;frutta;Lidl
+25/07/2020;sacchetto ortofrutta;0.01;1;4;borsa spesa;Lidl
+25/07/2020;ciliegie;2.54;1;4;frutta;Lidl
+25/07/2020;bresaola;2.19;1;10;affettato;Lidl
+25/07/2020;salmone norvegese affumicato;4.49;1;10;pesce;Lidl
+25/07/2020;paneangeli lievito vanigliato;0.89;1;10;lievito;Lidl
+25/07/2020;rotolo maxi 2 veli;1.89;1;22;carta igienica;Lidl
+25/07/2020;macinato magro;3.39;1;10;carne rossa;Lidl
+25/07/2020;ricotta fuscella;1.39;1;4;formaggio;Lidl
+25/07/2020;acqua ossigenata;0.55;1;22;none;Lidl
+25/07/2020;bastone di sal.dolce;2.19;1;10;dolce;Lidl
+25/07/2020;pesche piatte;1.29;1;4;frutta;Lidl
+25/07/2020;carote;0.75;1;4;verdura;Lidl
+25/07/2020;lamoni;1.99;1;4;frutta;Lidl
+25/07/2020;mirtilli;2.18;2;4;frutta;Lidl
+25/07/2020;yoga succo pesca;3.57;3;22;bevande;Lidl
+25/07/2020;candeggina non profumata;0.53;1;22;none;Lidl
+27/07/2020;albicocche 1kg;2.49;1;4;frutta;Lidl
+27/07/2020;anguria;2.35;1;4;frutta;Lidl
+27/07/2020;tartaruga;2.32;8;4;pane;Lidl
+27/07/2020;pane baul.integrale;0.75;1;4;pane;Lidl
+27/07/2020;pane baul.bianco;0.69;1;4;pane;Lidl
+27/07/2020;gallette mais bio;0.85;1;10;gallette;Lidl
+27/07/2020;filetti alici marin.;2.99;1;10;pesce;Lidl
+27/07/2020;pesche noci;3.33;1;4;frutta;Lidl
+27/07/2020;sacchetto ortofrutta;0.01;1;4;borsa spesa;Lidl
+27/07/2020;lamponi 125g;1.99;1;4;frutta;Lidl
+27/07/2020;mirtilli;1.49;1;4;frutta;Lidl
+27/07/2020;gallette riso salate;0.59;1;10;gallette;Lidl
+27/07/2020;cozze tarantina;2.79;1;10;pesce;Lidl
+27/07/2020;albume d'uovo;4.47;3;22;albume d'uovo;Lidl
+27/07/2020;filetti petto di pollo;8.97;3;10;carne bianca;Lidl
+27/07/2020;tonno al naturale;1.59;1;10;pesce;Lidl
+27/07/2020;pane grano saraceno;0.90;1;4;pane;Lidl
+29/07/2020;Gelato ciocc.modica;1.69;1;10;gelato;Lidl
+29/07/2020;biscotti gel.3 gusti;1.99;1;10;gelato;Lidl
+29/07/2020;carote;0.99;1;4;verdura;Lidl
+29/07/2020;filetti alici marin.;2.99;1;10;pesce;Lidl
+29/07/2020;carpaccio di tonno;2.79;1;10;pesce;Lidl
+29/07/2020;bresaola black angus;4.38;2;10;affettato;Lidl
+29/07/2020;salmone norvegese.aff;4.49;1;10;pesce;Lidl
+29/07/2020;filetto pollo a fette;5.98;2;10;carne bianca;Lidl
+29/07/2020;coca cola zero;1.98;2;22;bevande;Lidl
+29/07/2020;pesche piatte;1.49;1;4;frutta;Lidl
+29/07/2020;bevanda arancia rossa;0.99;1;22;bevande;Lidl
+29/07/2020;nettare albicocca;0.79;1;22;bevande;Lidl
+29/07/2020;succo arancia;0.99;1;22;bevande;Lidl
+29/07/2020;rucola bio;0.99;1;4;verdura;Lidl
+29/07/2020;anguria;2.08;1;4;frutta;Lidl
+29/07/2020;gallette mais biolo.;0.85;1;10;gallette;Lidl
+29/07/2020;arachidi in gus.tost.;1.99;1;10;frutta secca;Lidl
+29/07/2020;pane bal.bianco;0.69;1;4;pane;Lidl
+29/07/2020;filone semola;1.49;1;4;pane;Lidl
+29/07/2020;uva nera senza semi;1.99;1;4;frutta;Lidl
+29/07/2020;mirtilli;1.49;1;4;frutta;Lidl
+30/07/2020;baguette;0.78;1;4;pane;MD
+30/07/2020;gastronomia;2.59;1;4;none;MD
+31/07/2020;amica patatine mia;1.65;1;10;patatine;Tosano
+31/07/2020;pecorino marzolino;5.95;1;4;formaggio;Tosano
+31/07/2020;perrotta castagne morbide;2.10;1;10;frutta;Tosano
+31/07/2020;insalata mista;1.48;1;4;verdura;Tosano
+31/07/2020;latte accadi;5.94;6;4;latte;Tosano
+31/07/2020;prov.valpadana dop dolce;1.90;1;4;vino;Tosano
+31/07/2020;eurovo uova media;1.45;1;10;uova;Tosano
+31/07/2020;birra forst ml.660;0.99;1;22;birra;Tosano
+31/07/2020;paulaner hell munch;0.99;1;22;birra;Tosano
+31/07/2020;pero zucchero fair trade;1.55;1;10;birra;Tosano
+31/07/2020;banane;2.12;1;4;frutta;Tosano
+31/07/2020;gran turchese colussi;1.99;1;10;biscotti;Tosano
+31/07/2020;curtiriso riso arborio;1.99;1;4;riso;Tosano
+31/07/2020;montefelice mozzarella;1.50;1;4;mozzarella;Tosano
+31/07/2020;buitoni granfetta int;1.49;1;4;fette biscottate;Tosano
+31/07/2020;noberasco castagne;2.25;1;4;frutta;Tosano
+31/07/2020;patate a pezzi pizzoli;1.60;1;4;patate;Tosano
+31/07/2020;pellini top arabico;4.90;1;22;caffe;Tosano
+31/07/2020;miele rigoni famiglia;4.99;1;10;miele;Tosano
+31/07/2020;avena rob.gr.500;1.60;1;10;avena;Tosano
+31/07/2020;bio fiocchi avena bio;1.50;1;10;avena;Tosano
+31/07/2020;muller.yor.frutta;1.69;1;10;yogurt;Tosano
+31/07/2020;gosser birra ch.bot;0.85;1;22;birra;Tosano
+31/07/2020;hosten fiocchi avena;1.09;1;10;avena;Tosano
+31/07/2020;succo delrby;0.53;1;22;bevande;Tosano
+31/07/2020;sant'anna acqua nat;10.80;36;22;acqua;Tosano
+31/07/2020;valmora acqua nat;7.20;36;22;acqua;Tosano
+31/07/2020;mulino bianco ritornelli;2.75;1;10;biscotti;Tosano
+31/07/2020;mulino bianco nascondini;2.75;1;10;biscotti;Tosano
+31/07/2020;brie francese;0.99;1;4;formaggio;Tosano
+31/07/2020;valfrutta combi ace;0.79;1;22;bevande;Tosano
+31/07/2020;valfrutta combi ananas;0.79;1;22;bevande;Tosano
+31/07/2020;paulaner hefeweiss dunkel;1.20;1;22;birra;Tosano
+31/07/2020;staropramen premium bot;0.59;1;22;birra;Tosano
+31/07/2020;ichinusa cruda birra;1.49;1;22;birra;Tosano
+31/07/2020;pinna pec romnano;2.50;1;4;formaggio;Tosano
+31/07/2020;trentigrana;3.99;1;4;formaggio;Tosano
+31/07/2020;valfrutta combi ace;0.79;1;22;bevande;Tosano
+31/07/2020;valfrutta combi ace;0.79;1;22;bevande;Tosano
+31/07/2020;lanfr.olive den;1.60;1;10;olive;Tosano
+31/07/2020;coca cola zero bipack;2.95;1;22;bevande;Tosano
+31/07/2020;curry;0.89;1;10;spezie;Lidl
+31/07/2020;shopper biodegradabile;0.10;1;22;borsa spesa;Lidl
+31/07/2020;albume d'uovo;1.49;1;22;albume d'uovo;Lidl
+31/07/2020;filetto pollo a fette;8.97;;10;carne bianca;Lidl
+31/07/2020;chewin.gum white;1.99;1;10;cicche;Lidl
+31/07/2020;gelato ciocc.modica;1.69;1;10;gelato;Lidl
+31/07/2020;filetti alici marinate;2.99;1;10;pesce;Lidl
+31/07/2020;kinder colazione piu;2.89;1;10;briosche;Lidl
+31/07/2020;tav.eff vitamine;1.29;1;10;integratori;Lidl
+31/07/2020;tav.eff vitamina c;1.29;1;10;integratori;Lidl
+31/07/2020;peche piatte;1.49;1;4;frutta;Lidl
+31/07/2020;melone verde;2.84;1;4;frutta;Lidl
+31/07/2020;mirtilli;1.49;1;4;frutta;Lidl
+31/07/2020;melone verde;2.28;1;4;frutta;Lidl
+31/07/2020;shopper biodegradabile;0.10;1;22;borsa spesa;Lidl
+01/08/2020;insalata mista;1.25;1;4;verdura;Esselunga
+01/08/2020;evine sh color;2.99;1;22;none;Esselunga
+01/08/2020;banane;0.59;1;4;frutta;Esselunga
+01/08/2020;arachidi giant ess;7.98;2;10;frutta secca;Esselunga
+01/08/2020;eq gallette mais;2.76;1;10;gallette;Esselunga
+01/08/2020;santal plaisir pesca;1.66;1;22;bevande;Esselunga
+01/08/2020;pollo fusi;3.14;1;10;carne bianca;Esselunga
+01/08/2020;pollo sovracosce;3.66;1;10;carne bianca;Esselunga
+01/08/2020;sanbened.the pesca;0.99;1;22;bevande;Esselunga
+01/08/2020;coca cola zero limone;1.01;1;22;bevande;Esselunga
+01/08/2020;vitant.linfa betulla;1.49;1;22;none;Esselunga
+01/08/2020;shopper;0.20;2;22;borsa spesa;Esselunga
+02/08/2020;bevanda arancia rossa;0.99;1;22;bevande;Lidl
+02/08/2020;albume d'uovo;2.98;2;22;albume d'uovo;Lidl
+02/08/2020;rfa succo arancia;0.99;1;22;bevande;Lidl
+02/08/2020;pomodoro insalatario;1.68;1;4;verdura;Lidl
+02/08/2020;prosciutto cotto;2.39;1;10;affettato;Lidl
+02/08/2020;bresaola;2.99;1;10;affettato;Lidl
+02/08/2020;rio mare tonno;3.79;1;10;pesce;Lidl
+02/08/2020;filetto pollo a fette;5.98;2;10;carne bianca;Lidl
+02/08/2020;rucola bio;0.99;1;4;verdura;Lidl
+02/08/2020;fette formaggio;1.75;1;4;formaggio;Lidl
+02/08/2020;tartaruga;1.16;4;4;pane;Lidl
+02/08/2020;gallette mais bio;0.85;1;4;gallette;Lidl
+03/08/2020;fettine scelte scottona;3.10;1;10;carne rossa;Lidl
+03/08/2020;carpaccio scottona;3.40;1;10;carne rossa;Lidl
+03/08/2020;olio evo dop;4.99;1;4;olio;Lidl
+03/08/2020;rio mare tonno naturale;2.79;1;10;pesce;Lidl
+03/08/2020;olive denociollata nera;0.99;1;4;olive;Lidl
+03/08/2020;uva nera;1.99;1;4;frutta;Lidl
+03/08/2020;uova all.terra;1.25;1;10;uova;Lidl
+03/08/2020;arcana birra bianca;1.99;1;22;birra;Lidl
+03/08/2020;birra chiara nord;2.49;1;22;birra;Lidl
+03/08/2020;pane bruschetta;1.49;1;4;pane;Lidl
+03/08/2020;mele rosse;1.87;1;4;frutta;Lidl
+03/08/2020;pesche piatte 500g;1.49;1;4;frutta;Lidl
+03/08/2020;calzini 43-46;3.99;1;22;none;Lidl
+03/08/2020;mars;2.39;1;10;dolce;Lidl
+03/08/2020;preparato torta cacao;1.29;1;10;dolce;Lidl
+03/08/2020;salmone norvegese affumicato;4.49;1;10;pesce;Lidl
+03/08/2020;provolone dolce;2.19;1;4;dolce;Lidl
+03/08/2020;filetti alici marinate;2.29;1;4;pesce;Lidl
+03/08/2020;riso soffiato cioccolato;1.89;1;10;dolce;Lidl
+03/08/2020;tartaruga;2.61;9;4;pane;Lidl
+03/08/2020;melanzane;1.75;1;4;verdura;Lidl
+03/08/2020;sacchetto ortofrutta;0.01;1;4;borsa spesa;Lidl
+03/08/2020;shopper biodegradabile;0.1;1;22;borsa spesa;Lidl
+03/08/2020;pesche 1kg;1.69;1;4;frutta;Lidl
+03/08/2020;golia frutta;2.15;1;10;dolce;Lidl
+03/08/2020;anelli cerali miele;1.11;1;10;cereali;Lidl
+04/08/2020;spay sgrassatore;1.39;1;22;none;Lidl
+04/08/2020;nettare pesca;4.74;;22;dolce;Lidl
+04/08/2020;panino tondo;1.52;8;4;pane;Lidl
+04/08/2020;mandorle cioccolato bianco;1.69;1;10;dolce;Lidl
+04/08/2020;aceto vino bianco;0.49;1;4;aceta;Lidl
+06/08/2020;meloni gialli;1.97;1;4;frutta;Esselunga
+06/08/2020;banane bio;2.89;1;4;frutta;Esselunga
+06/08/2020;duroni cassetta;5.99;1;4;frutta;Esselunga
+06/08/2020;mirtilli 125g;1.38;1;4;frutta;Esselunga
+06/08/2020;insalata mista smart;1.25;1;4;verdura;Esselunga
+06/08/2020;limoni 1kg;2.68;1;4;frutta;Esselunga
+06/08/2020;cipolle rosse;1.98;1;4;verdura;Esselunga
+06/08/2020;uva nera palieri;2.29;1;4;frutta;Esselunga
+06/08/2020;lupini;3.96;2;10;verdura;Esselunga
+06/08/2020;brimi mozzarella;1.99;1;4;mozzarella;Esselunga
+06/08/2020;galbani stracchino;1.49;1;4;formaggio;Esselunga
+06/08/2020;bravo multivitaminico;3.98;2;22;bevande;Esselunga
+06/08/2020;smart bresaola;2.09;1;10;affettato;Esselunga
+06/08/2020;speck;2.05;1;10;affettato;Esselunga
+06/08/2020;gallette mais;2.88;3;10;gallette;Esselunga
+06/08/2020;parmigiano reggiano;4.29;1;4;formaggio;Esselunga
+06/08/2020;pane ai 3 farri;1.09;1;10;pane;Esselunga
+06/08/2020;farina manitoba;1.00;1;4;farina;Esselunga
+06/08/2020;pecorino dop velenosi;6.39;1;22;formaggio;Esselunga
+06/08/2020;aceto mele bio;2.59;1;10;aceto;Esselunga
+06/08/2020;riso basmati;3.29;1;4;riso;Esselunga
+06/08/2020;bonomi savoiardi;1.29;1;10;savoiardi;Esselunga
+06/08/2020;deox lavatrice blu;2.89;1;22;none;Esselunga
+06/08/2020;smart mascarpone;2.38;1;4;mascarpone;Esselunga
+06/08/2020;sale fino iodiato;0.49;1;22;sale;Esselunga
+06/08/2020;tonno asdomare;3.99;1;10;pesce;Esselunga
+06/08/2020;gnoccchi patata;1.38;2;4;gnocchi;Esselunga
+06/08/2020;bonomi savoiardi;1.29;1;10;savoiardi;Esselunga
+06/08/2020;eq.well flakes;1.95;1;10;none;Esselunga
+06/08/2020;fette audisio dorate;1.22;1;4;fette biscottate;Esselunga
+06/08/2020;snikers 4 pezzi;1.85;1;10;dolce;Esselunga
+06/08/2020;esselunga cioccolato fondente;0.69;1;10;dolce;Esselunga
+06/08/2020;fiocchi avena;3.38;1;10;avena;Esselunga
+06/08/2020;pollo petti;4.31;1;10;carne bianca;Esselunga
+06/08/2020;colluttorio;1.19;1;22;none;Esselunga
+06/08/2020;coll.antica erbosteria;1.99;1;22;none;Esselunga
+06/08/2020;dent.extra;2;2;22;none;Esselunga
+06/08/2020;pollo veg sovraccoscie;4.21;1;10;carne bianca;Esselunga
+06/08/2020;pane bastoncino;2.07;1;4;pane;Esselunga
+06/08/2020;smart gamberi;4.99;1;10;pesce;Esselunga
+06/08/2020;ghiaccioli;2.99;1;10;ghiaccioli;Esselunga
+06/08/2020;succo pera;0.85;1;22;bevande;Esselunga
+06/08/2020;cozze sottovuoto;3.49;1;10;pesce;Esselunga
+06/08/2020;vongole veraci;7.99;1;10;pesce;Esselunga
+06/08/2020;colla;1.59;1;22;none;Esselunga
+06/08/2020;spinaci;2.59;1;4;verdura;Esselunga
+06/08/2020;pizzoli le patatine;1.71;1;4;patatine;Esselunga
+06/08/2020;pane di semola;0.99;1;4;pane;Esselunga
+07/08/2020;aceto vino bianco;0.49;1;10;aceto;Lidl
+07/08/2020;lievito fresco cubetti;0.22;1;10;lievito;Lidl
+07/08/2020;piselli finissimi;1.19;1;10;verdura;Lidl
+07/08/2020;mars;2.39;1;10;dolce;Lidl
+07/08/2020;panino tondo;1.14;6;4;pane;Lidl
+07/08/2020;olive nera greca;0.99;1;10;olive;Lidl
+07/08/2020;uova terra;1.25;1;10;uova;Lidl
+07/08/2020;zucchero semolato;0.65;1;10;zucchero;Lidl
+07/08/2020;speck affettato light;1.79;1;10;affettato;Lidl
+07/08/2020;pizzetta;1.98;2;10;none;Lidl
+07/08/2020;riso soffiato cioccolato;1.89;1;10;dolce;Lidl
+07/08/2020;mutti polpa di pomodoro;0.99;1;4;passata pomodoro;Lidl
+07/08/2020;birra amber;1.49;1;22;birra;Lidl
+07/08/2020;prosciutto cotto toast;2.39;1;10;affettato;Lidl
+07/08/2020;tagliata di pollo;8.97;3;10;carne bianca;Lidl
+07/08/2020;albume d'uovo;2.98;1;22;albume d'uovo;Lidl 
+07/08/2020;shopper biodegradabile;0.1;1;22;borsa spesa;Lidl 
+07/08/2020;baguette;1.17;3;4;pane;Lidl 
+11/08/2020;preparat.torta cacao;1.29;1;10;dolce;Lidl
+11/08/2020;pas.sfog.marg.;0.69;1;10;none;Lidl
+11/08/2020;uova fresche terra m;1.69;1;10;uova;Lidl
+11/08/2020;granarolo accadi;2.97;;4;latte;Lidl
+11/08/2020;rfa succo arancia;1.45;1;22;bevande;Lidl
+11/08/2020;foglio alluminio;1.99;1;22;none;Lidl
+11/08/2020;dete.liq.marsigl.40l;2.49;1;22;detersivo;Lidl
+11/08/2020;albume d'uovo;2.98;2;22;albume d'uovo;Lidl
+11/08/2020;chilly gel;3.69;1;22;none;Lidl
+11/08/2020;gelato mini mix cioccolato;2.85;1;10;gelato;Lidl
+11/08/2020;ghiaccioli assortiti;2.98;2;10;ghiaccioli;Lidl
+11/08/2020;biscotti gel.3 gusti;1.99;1;10;gelato;Lidl
+11/08/2020;tav.eff.vitamine;2.58;2;10;integratori;Lidl
+11/08/2020;fette biscottate;1.15;1;4;fette biscottate;Lidl
+11/08/2020;birra rossa irlandese;1.99;1;22;birra;Lidl
+11/08/2020;birra irlandese;1.99;1;22;birra;Lidl
+11/08/2020;pan di stelle;2.29;1;10;biscotti;Lidl
+11/08/2020;aglio rosso;1.49;1;4;verdura;Lidl
+11/08/2020;pizza margerita;1.39;1;10;pizza;Lidl
+11/08/2020;carote igp;1.49;1;4;verdura;Lidl
+11/08/2020;tartaruga;1.74;6;4;pane;Lidl
+11/08/2020;parmigiano.reg.dop 24m;4.67;1;4;formaggio;Lidl
+11/08/2020;burro centrifugato;1.09;1;4;burro;Lidl
+11/08/2020;gallette mais bio;0.85;1;10;gallette;Lidl
+11/08/2020;gallette riso;0.59;1;10;gallette;Lidl
+11/08/2020;pett.poll.senza osso;5.38;2;10;carne bianca;Lidl
+11/08/2020;gnocchetti tirolesi;2.58;2;4;gnocchetti;Lidl
+11/08/2020;bresaola black angus;2.99;1;10;affettato;Lidl
+11/08/2020;muesli frutta;1.79;1;4;avena;Lidl
+11/08/2020;pane baul.bianco;0.69;1;4;pane;Lidl
+11/08/2020;smo.melagr;0.99;1;22;none;Lidl
+11/08/2020;grissini salati;0.99;1;4;grissini;Lidl
+11/08/2020;melanzane;1.21;1;4;verdura;Lidl
+11/08/2020;sacchetto orofrutta;0.01;1;4;borsa spesa;Lidl
+11/08/2020;croissant zuccherato;2.69;1;10;dolce;Lidl
+11/08/2020;shopper biodegradabile;0.20;1;22;borsa spesa;Lidl
+11/08/2020;caciocavallo silano;1.79;1;4;formaggio;Lidl
+11/08/2020;arachidi in gus.tost;3.98;2;10;frutta secca;Lidl
+11/08/2020;smo.mela-banana-mango;0.99;1;22;none;Lidl
+11/08/2020;uva mista senza semi;1.49;1;4;frutta;Lidl
+11/08/2020;pomodoro piccadilly;0.95;1;4;verdura;Lidl
+11/08/2020;fichi d'india;2.98;1;4;frutta;Lidl
+11/08/2020;anguria;1.10;1;4;frutta;Lidl
+13/08/2020;pellini sup.espresso;1.99;1;22;caffe;Lidl
+13/08/2020;provolone piccante;2.29;1;4;formaggio;Lidl
+13/08/2020;anguria senza semi;4.90;1;4;frutta;Lidl
+13/08/2020;panino tondo;1.71;1;4;pane;Lidl
+13/08/2020;pizzetta;0.99;1;10;none;Lidl
+13/08/2020;smo.melag;1.98;1;22;none;Lidl
+13/08/2020;bresaola;2.19;1;10;affettato;Lidl
+13/08/2020;petto di tacchino;1.79;1;10;affettato;Lidl
+13/08/2020;pata speedy flipper;0.59;1;10;none;Lidl
+13/08/2020;croissant al miele;1.49;1;10;dolce;Lidl
+13/08/2020;chinotto zero;0.49;1;22;bevande;Lidl
+14/08/2020;tonno al naturale;1.59;1;10;pesce;Lidl
+14/08/2020;petto.pollo senza osso;8.07;3;10;carne bianca;Lidl
+14/08/2020;shopper biodegradabile;0.10;1;22;borsa spesa;Lidl
+14/08/2020;chewin.gum white;1.99;1;10;cicche;Lidl
+14/08/2020;rucola;0.99;1;4;verdura;Lidl
+14/08/2020;carta igenica prof;1.69;1;22;none;Lidl
+14/08/2020;nettare pesca;1.58;1;22;bevande;Lidl
+14/08/2020;arcana birra bianca;3.98;2;22;birra;Lidl
+14/08/2020;acqua naturale;3.06;18;22;acqua;Lidl
+14/08/2020;olio evo dop;4.99;1;4;olio;Lidl
+14/08/2020;gelato cioccolato;3.98;2;10;gelato;Lidl
+14/08/2020;ghiaccioli assortiti;1.49;1;10;ghiaccioli;Lidl
+14/08/2020;biscotti gel.3 gusti;3.98;2;10;gelato;Lidl
+14/08/2020;gelato fragola;1.99;1;10;gelato;Lidl
+14/08/2020;bicchieri 200c plastica;1.29;1;22;none;Lidl
+14/08/2020;coca cola zero;3.39;2;22;bevande;Lidl
+14/08/2020;uova fresche terra;1.69;1;10;uova;Lidl
+14/08/2020;sale marino iodiato grosso;0.39;1;10;sale;Lidl
+14/08/2020;pane baul.bianco;0.69;1;4;pane;Lidl
+14/08/2020;pomodori ciligieno;0.95;1;4;verdura;Lidl
+14/08/2020;muesli frutta;1.79;1;10;avena;Lidl
+14/08/2020;cornetti formaggio;0.49;1;10;formaggio;Lidl
+14/08/2020;pesche noci piatte;2.49;1;4;frutta;Lidl
+14/08/2020;pas.sfog.marg;1.47;;10;none;Lidl
+14/08/2020;parmgiano regg.30m;3.49;1;4;formaggio;Lidl
+14/08/2020;albume d'uovo;1.49;1;10;albume d'uovo;Lidl
+14/08/2020;ricotta fuscella;2.78;2;4;formaggio;Lidl
+14/08/2020;mozzarella;1.05;1;4;mozzarella;Lidl
+14/08/2020;tortellini bolognese;2.98;1;10;tortellini;Lidl
+14/08/2020;speck take away;1.79;1;10;affettato;Lidl
+14/08/2020;petto di tacchino;1.79;1;10;affettato;Lidl
+14/08/2020;miele millefiori;2.99;1;10;miele;Lidl
+14/08/2020;shopper biodegradabile;0.20;2;22;borsa spesa;Lidl
+14/08/2020;preparato alle ciliegie;1.19;1;10;marmellata;Lidl
+14/08/2020;anguria;1.51;1;4;frutta;Lidl
+14/08/2020;melone giallo;2.18;1;4;frutta;Lidl
+14/08/2020;melone giallo;1.32;1;4;frutta;Lidl
+16/08/2020;albume d'uovo;1.49;1;22;albume d'uovo;Lidl
+16/08/2020;pane grano saraceno;0.99;1;4;pane;Lidl
+16/08/2020;baguette;0.78;2;4;pane;Lidl
+18/08/2020;banane;1.64;1;4;frutta;Lidl
+18/08/2020;acqua naturale;4.08;24;22;acqua;Lidl
+18/08/2020;nettare pera;0.59;1;22;bevande;Lidl
+18/08/2020;gallette mais;0.89;1;10;gallette;Lidl
+18/08/2020;latte senza lattosio;1.98;2;4;latte;Lidl
+18/08/2020;bevanda ace xxl;1.11;1;22;bevande;Lidl
+18/08/2020;latte senza lattosio;1.98;2;4;latte;Lidl
+18/08/2020;tagliata di pollo;3.89;1;10;carne bianca;Lidl
+18/08/2020;petti di pollo;7.13;1;10;carne bianca;Lidl
+18/08/2020;rucola;0.99;1;4;verdura;Lidl
+18/08/2020;biscotti goccie cioccolato;1.49;1;10;biscotti;Lidl
+18/08/2020;provolone piccante;2.29;1;4;formaggio;Lidl
+18/08/2020;camembert finesse;1.99;1;4;formaggio;Lidl
+18/08/2020;fette biscottate;1.15;1;4;fette biscottate;Lidl
+18/08/2020;albume d'uovo;1.49;1;22;albume d'uovo;Lidl
+18/08/2020;baguette;0.78;2;4;pane;Lidl
+18/08/2020;pane baul.bianco;0.69;1;4;pane;Lidl
+18/08/2020;gallette riso;0.59;1;10;gallette;Lidl
+18/08/2020;fichi d'india;1.49;1;4;frutta;Lidl
+18/08/2020;uva bianca senza semi;1.69;1;4;frutta;Lidl
+19/08/2020;filone semola;1.49;1;4;pane;Lidl
+19/08/2020;shopper biodegradabile;0.1;1;22;borsa spesa;Lidl
+19/08/2020;mini baguette;0.58;1;4;pane;Lidl
+21/08/2020;pesche gialle;1.67;1;4;frutta;Esselunga
+21/08/2020;meloni gialli;1.87;1;4;frutta;Esselunga
+21/08/2020;meloni gialli;2.02;1;4;frutta;Esselunga
+21/08/2020;uva bianca s/semi;1.98;1;4;frutta;Esselunga
+21/08/2020;mirtilli;1.78;1;4;frutta;Esselunga
+21/08/2020;insalata mista smart;1.25;1;4;verdura;Esselunga
+21/08/2020;carote;0.98;1;4;verdura;Esselunga
+21/08/2020;scalogno;0.98;1;4;verdura;Esselunga
+21/08/2020;banane;1.33;1;4;frutta;Esselunga
+21/08/2020;anguria;4.27;1;4;frutta;Esselunga
+21/08/2020;nivea deospray natura;2.69;1;22;none;Esselunga
+21/08/2020;bagno felice azzurra;1.79;1;22;none;Esselunga
+21/08/2020;mozzarella latte/fien;2.11;1;4;mozzarella;Esselunga
+21/08/2020;funghi;2.79;1;10;verdura;Esselunga
+21/08/2020;brasato;2.79;1;10;none;Esselunga
+21/08/2020;esselunga top gnocchi;2.23;1;4;gnocchi;Esselunga
+21/08/2020;parmareggio p.reg 12m;10.77;1;4;formaggio;Esselunga
+21/08/2020;granar.burro classico;1.55;1;4;burro;Esselunga
+21/08/2020;yomo caffe;1.24;1;4;yogurt;Esselunga
+21/08/2020;zuegg frutti di bosco;1.80;1;10;marmellata;Esselunga
+21/08/2020;balocco gocciolotti;2.29;1;10;biscotti;Esselunga
+21/08/2020;bond.cannel vapx2;1.49;1;10;none;Esselunga
+21/08/2020;asdomar tonno 80x9;5.99;1;10;pesce;Esselunga
+21/08/2020;mutti passata;0.75;1;4;passata podomoro;Esselunga
+21/08/2020;eq.gallette riso;0.96;1;10;gallette;Esselunga
+21/08/2020;eq.gallette riso;0.96;1;10;gallette;Esselunga
+21/08/2020;smart bresaola;2.09;1;10;affettato;Esselunga
+21/08/2020;smart mascarpone 500g;2.38;1;4;none;Esselunga
+21/08/2020;smart 10 uova terra;1.49;1;10;uova;Esselunga
+21/08/2020;salmone;4.82;1;10;pesce;Esselunga
+21/08/2020;sogliola;6.32;1;10;pesce;Esselunga
+21/08/2020;fil.pesce san pietro;4.85;1;10;pesce;Esselunga
+21/08/2020;chant.liq muschiobianco;2.99;1;22;none;Esselunga
+21/08/2020;pesco senza aglio;2.09;1;10;pesto;Esselunga
+21/08/2020;lasagne 250g;1.29;1;10;none;Esselunga
+21/08/2020;pollo petti;3.90;1;10;carne bianca;Esselunga
+21/08/2020;pollo petti;3.56;1;10;carne bianca;Esselunga
+21/08/2020;bovino adulto trita;3.74;1;10;carne rossa;Esselunga
+21/08/2020;bonomi savoiardi;2.58;2;10;biscotti;Esselunga
+21/08/2020;smart caffe classico;1.78;2;22;caffe;Esselunga
+21/08/2020;fiocchi avena piccoli;3.58;2;10;avena;Esselunga
+21/08/2020;special muesli 500g;4.95;1;10;avena;Esselunga
+21/08/2020;accadi latte uht;5.94;6;4;latte;Esselunga
+21/08/2020;treccine;1.69;1;10;none;Esselunga
+21/08/2020;fette ausisto dorate;1.22;1;4;none;Esselunga
+21/08/2020;smart nettare pesca;1.38;2;22;bevande;Esselunga
+21/08/2020;smart nettare pera;1.38;2;22;bevande;Esselunga
+21/08/2020;smart nettare albicocca;0.69;1;22;bevande;Esselunga
+21/08/2020;pizzoli le patatine;1.71;1;4;patatine;Esselunga
+21/08/2020;smart ric.sap.liquido;0.99;1;22;sapone;Esselunga
+21/08/2020;sunsilk sh;1.59;1;22;none;Esselunga
+21/08/2020;pane cereali;0.83;1;4;pane;Esselunga
+21/08/2020;pane cereali;0.83;1;4;pane;Esselunga
+21/08/2020;baguette;1.17;3;4%;pane;Lidl
+21/08/2020;albume d'uovo;2.98;2;22%;albume d'uovo;Lidl
+24/08/2020;acqua naturale;1.02;6;22;acqua;Lidl
+24/08/2020;arachidi;1.99;1;10;frutta secca;Lidl
+24/08/2020;filone di semola;1.49;1;4;pane;Lidl
+24/08/2020;salmone norvegese affumicato;4.49;1;10;pesce;Lidl
+24/08/2020;confettura frutti di bosco;1.29;1;10;marmellata;Lidl
+24/08/2020;filetti alici marinate;2.99;1;10;pesce;Lidl
+24/08/2020;rucola bio;0.99;1;4;verdura;Lidl
+24/08/2020;albume d'uovo;1.49;1;22;albume d'uovo;Lidl
+25/08/2020;meloni gialli;2.03;1;4;frutta;Esselunga
+25/08/2020;meloni gialli;2.31;1;4;frutta;Esselunga
+25/08/2020;uva bianca s/semi;3.30;1;4;frutta;Esselunga
+25/08/2020;insalata mista smart;1.25;1;4;verdura;Esselunga
+25/08/2020;limoni 1kg;2.55;1;4;frutta;Esselunga
+25/08/2020;banane;1.08;1;4;frutta;Esselunga
+25/08/2020;rig bresaola igp;4.55;2;10;affettato;Esselunga
+25/08/2020;ravioli brasato;2.79;1;10;ravioli;Esselunga
+25/08/2020;ravioli funghi;2.79;1;10;ravioli;Esselunga
+25/08/2020;smart coppa;2.19;1;10;affettato;Esselunga
+25/08/2020;asdomar tonno 80x9;5.99;1;10;pesce;Esselunga
+25/08/2020;gorgonzola dop smart;1.79;1;4;formaggio;Esselunga
+25/08/2020;aceto di mela italia;1.48;1;10;aceto;Esselunga
+25/08/2020;penne rigate de cecco;0.99;1;4;pasta;Esselunga
+25/08/2020;fusilli de cecco;0.99;1;4;pasta;Esselunga
+25/08/2020;smart acqua naturale;10.20;10;22;acqua;Esselunga
+25/08/2020;filoncino senza sale;1.66;1;4;pane;Esselunga
+25/08/2020;sfilatino grano duro;1.42;1;4;pane;Esselunga
+25/08/2020;pollo petti;3.70;1;10;carne bianca;Esselunga
+25/08/2020;pollo veg/petti fette;4.09;1;10;carne bianca;Esselunga
+25/08/2020;pollo veg/petti fette;3.83;1;10;carne bianca;Esselunga
+25/08/2020;eq.gallette mais;2.76;2;10;gallette;Esselunga
+25/08/2020;coca cola zero;4.48;6;22;bevande;Esselunga
+25/08/2020;vipra rosa bigi;3.48;1;10;vino;Esselunga
+25/08/2020;kerner pravis;5.99;1;10;none;Esselunga
+25/08/2020;spiedino gustoso salmone merluzzo;5.39;1;10;pesce;Esselunga
+25/08/2020;spiedino gustoso salmone merluzzo;5.49;1;10;pesce;Esselunga
+25/08/2020;smart balconi chocofr;1.65;1;10;none;Esselunga
+25/08/2020;fette audisio dorate;1.22;1;4;fette biscottate;Esselunga
+25/08/2020;conf.lamponi;1.79;1;10;marmellata;Esselunga
+25/08/2020;fiocchi avena piccoli;1.69;1;10;avena;Esselunga
+25/08/2020;fiocchi avena;1.69;1;10;avena;Esselunga
+25/08/2020;miele castagno;5.94;1;10;miele;Esselunga
+25/08/2020;crema spalmabile;1.69;1;10;dolce;Esselunga
+25/08/2020;accadi latte uht;5.94;6;4;latte;Esselunga
+25/08/2020;riso basmati 2kg;3.29;1;4;riso;Esselunga
+25/08/2020;penne rigate smart;0.59;1;4;pasta;Esselunga
+25/08/2020;eicoladi smart;0.59;1;4;pasta;Esselunga
+25/08/2020;esselunga follini grano;2.29;1;10;biscotti;Esselunga
+25/08/2020;smart nettare albicocca;1.38;2;22;bevande;Esselunga
+25/08/2020;smart nettare pera;1.38;2;22;bevande;Esselunga
+25/08/2020;smart nettare pesca;1.38;2;22;bevande;Esselunga
+25/08/2020;smart det lavatrice polvere;4.05;3;22;none;Esselunga
+25/08/2020;yulty gelato caff�;2.79;1;10;gelato;Esselunga
+27/08/2020;baguette;0.78;2;4;pane;Lidl
+27/08/2020;prezzemolo;0.69;1;4;verdura;Lidl
+27/08/2020;shopper biodegradible;0.1;1;22;borsa spesa;Lidl
+27/08/2020;taglitelle all'uovo;1.38;2;4;tagliatelle;Lidl
+27/08/2020;cappuccio;2.02;1;4;verdura;Lidl
+28/08/2020;rucola;0.99;1;4;verdura;Lidl
+28/08/2020;albume d'uovo;2.98;2;22;albume d'uovo;Lidl
+28/08/2020;baguette;0.78;2;4;pane;Lidl
+28/08/2020;controfiletti di pollo;2.99;1;10;carne bianca;Lidl
+28/08/2020;croissant integrale;1.19;1;10;dolce;Lidl
+28/08/2020;nocciole sgusciate;1.49;1;10;frutta secca;Lidl
+28/08/2020;mandorle pelate;1.29;1;4;frutta secca;Lidl
+28/08/2020;cioccolato arriba;4.17;3;10;dolce;Lidl
+28/08/2020;succo polp.pesca;0.99;1;22;bevande;Lidl
+28/08/2020;gallette mais biolo;0.85;1;10;gallette;Lidl
+28/08/2020;prepar.gran.effervescente;1.29;1;10;effervescente;Lidl
+28/08/2020;perp.all'albicocca;1.19;1;10;bevande;Lidl
+28/08/2020;fichi d'india;2.98;2;4;frutta;Lidl
+28/08/2020;uova fresche terra;1.69;1;10;uova;Lidl
+28/08/2020;burro centrifugato;1.09;1;4;burro;Lidl
+28/08/2020;paneangeli liev.van;0.89;1;10;lievito;Lidl
+30/08/2020;rotolo case 2 veli;1.35;1;22;carta-igienica;Lidl
+30/08/2020;mandorle pelate;1.29;1;4;frutta secca;Lidl
+30/08/2020;mele rosse;1.83;1;4;frutta;Lidl
+30/08/2020;pagnotta semola;1.49;1;4;pane;Lidl
+30/08/2020;albume d'uovo;1.49;1;22;albume d'uovo;Lidl
+30/08/2020;findus minestrone;2.69;1;4;none;Lidl
+30/08/2020;controfiletti di pollo;5.98;1;10;carne bianca;Lidl
+30/08/2020;gelato cioccolato;1.99;1;10;gelato;Lidl
+30/08/2020;yogurt intero bianco;0.38;2;10;yogurt;Lidl
+29/08/2020;10 uova medie;1.89;1;10;uova;Conad
+29/08/2020;mozzarella;3.98;1;4;mozzarella;Conad
+29/08/2020;pane tipo 1;1.27;1;4;pane;Conad
+29/08/2020;pan.spugna conad;0.99;1;4;none;Conad
+29/08/2020;burro;1.19;1;4;burro;Conad
+29/08/2020;yogurt meran;2.69;1;10;yogurt;Conad
+29/08/2020;passata pomodoro;0.83;1;4;passata pomodoro;Conad
+29/08/2020;zucchero semolato;0.92;1;10;zucchero;Conad
+29/08/2020;confettura extra frutti di bosco;1.39;1;10;marmellata;Conad
+29/08/2020;sacchetto biodegradabile;0.01;1;22;borsa spesa;Conad
+29/08/2020;mela gala;2.28;1;4;frutta;Conad
+29/08/2020;fiocchi avena bio;2.98;2;10;avena;Conad
+29/08/2020;nettare pesca;0.99;1;10;bevande;Conad
+29/08/2020;farina grano saraceno;2.19;1;4;farina;Conad
+29/08/2020;pesca bivona;3.78;1;4;frutta;Conad
+01/09/2020;tartaruga;1.74;6;4;pane;Lidl
+01/09/2020;chew.gum dental;0.99;1;10;cicche;Lidl
+01/09/2020;baguette;0.39;1;4;pane;Lidl
+01/09/2020;albume d'uovo;1.49;1;22;albume d'uovo;Lidl
+01/09/2020;gallette mais;0.85;1;10;gallette;Lidl
+01/09/2020;uova frescheterra;1.29;1;10;uova;Lidl
+01/09/2020;paneangeli lievito;0.89;1;10;lievito;Lidl
+01/09/2020;yogurt intero bianco;3.45;3;10;yogurt;Lidl
+01/09/2020;petti di pollo;7.44;1;10;carne bianca;Lidl
+01/09/2020;melone giallo;1.80;1;4;frutta;Lidl
+01/09/2020;melone giallo;1.69;1;4;frutta;Lidl
+01/09/2020;pesche noci;1.99;1;4;frutta;Lidl
+01/09/2020;fette biscottate;1.15;1;4;fette biscottate;Lidl
+01/09/2020;salmone norvegese affumicato;3.49;1;10;pesce;Lidl
+01/09/2020;fichi d'india;2.98;2;4;frutta;Lidl
+01/09/2020;banane;1.83;1;4;frutta;Lidl
+01/09/2020;sacchetto ortofrutta;0.03;3;22;borsa spesa;Lidl
+01/09/2020;shopper biodegradabile;0.20;2;22;borsa spesa;Lidl
+01/09/2020;muesli frutta;2.25;1;10;avena;Lidl
+01/09/2020;edamer a fette;1.29;1;4;formaggio;Lidl
+01/09/2020;gnocchetti patate;1.59;1;4;gnocchi;Lidl
+01/09/2020;mele rosse;1.03;1;4;frutta;Lidl
+01/09/2020;gnocchetti tirolesi;1.29;1;4;gnocchi;Lidl
+01/09/2020;cvolo cappuccio;1.47;1;4;verdura;Lidl
+01/09/2020;aceto di vino bianco;0.49;1;10;aceta;Lidl
+01/09/2020;rucola bio;0.99;1;4;verdura;Lidl
+01/09/2020;pane alla segale;1.69;1;4;pane;Lidl
+01/09/2020;quadrotta croccante;1.74;6;4;pane;Lidl
+01/09/2020;caffe rosso;1.69;1;22;caffe;Lidl
+01/09/2020;tav.eff.vitamina c;1.29;1;10;integratore;Lidl
+01/09/2020;cioccolato arriba;4.17;3;10;cioccolato;Lidl
+03/09/2020;borsa spesa carta;0.12;1;22;borsa spesa;Lidl
+03/09/2020;crossaint integrale;1.19;1;10;briosche;Lidl
+03/09/2020;acqua naturale;4.08;24;22;acqua;Lidl
+03/09/2020;gallette mais biolo;1.70;2;10;gallette;Lidl
+03/09/2020;baguette;0.78;2;4;pane;Lidl
+03/09/2020;tonno e fagioli;1.49;1;10;pesce;Lidl
+03/09/2020;rio mare tonno naturale;2.79;1;10;pesce;Lidl
+03/09/2020;yogurt intero bianco;2.30;2;10;yogurt;Lidl
+03/09/2020;coca cola zero;1.18;2;22;bevande;Lidl
+03/09/2020;pane grano saraceno noci;1.99;1;10;pane;Lidl
+03/09/2020;crauti bianchi;0.83;1;4;verdura;Esselunga
+03/09/2020;crauti bianchi;0.57;1;4;verdura;Esselunga
+03/09/2020;mirtilli;2.48;1;4;frutta;Esselunga
+03/09/2020;mirtilli;1.48;1;4;frutta;Esselunga
+03/09/2020;fichi d'india;1.82;1;4;frutta;Esselunga
+03/09/2020;carote;1.28;1;4;verdura;Esselunga
+03/09/2020;brocolletti;1.97;1;4;verdura;Esselunga
+03/09/2020;banane;1.06;1;4;frutta;Esselunga
+03/09/2020;meloni gialli;1.64;1;4;frutta;Esselunga
+03/09/2020;uva vittoria;1.25;1;4;frutta;Esselunga
+03/09/2020;uva nera;1.55;1;4;frutta;Esselunga
+03/09/2020;mela gala naturama;1.96;1;4;frutta;Esselunga
+03/09/2020;insalata mista;1.25;1;4;verdura;Esselunga
+03/09/2020;olive schiacc.etnea;1.78;1;10;verdura;Esselunga
+03/09/2020;oliva rosatella picc;1.98;1;10;verdura;Esselunga
+03/09/2020;olive verdi peporone;1.98;1;10;verdura;Esselunga
+03/09/2020;anguria mini;2.52;1;4;frutta;Esselunga
+03/09/2020;patatine da forno;2.79;1;4;patate;Esselunga
+03/09/2020;patate viola;1.48;1;4;patate;Esselunga
+03/09/2020;fette audisio dorate;1.22;1;4;fette biscottate;Esselunga
+03/09/2020;smart nettare pesca;1.38;2;22;bevande;Esselunga
+03/09/2020;smart nettare pera;1.38;2;22;bevande;Esselunga
+03/09/2020;smart nettare albicocca;0.69;2;22;bevande;Esselunga
+03/09/2020;kimbo macinato;2.99;1;22;caffe;Esselunga
+03/09/2020;eq.well flakes fr.bos;1.95;1;10;cereali;Esselunga
+03/09/2020;fiocchi avena piccoli;1.69;1;10;avena;Esselunga
+03/09/2020;fiocchi avena;3.38;1;10;avena;Esselunga
+03/09/2020;smart bar.multigrain;1.09;1;10;none;Esselunga
+03/09/2020;miele millefiori;4.29;1;10;miele;Esselunga
+03/09/2020;100 fette integrali;1.99;1;4;fette biscottate;Esselunga
+03/09/2020;crema marroni;2.29;1;10;marmellata;Esselunga
+03/09/2020;snack al cioccolato;1.19;1;10;dolce;Esselunga
+03/09/2020;frollini grano;2.29;1;10;biscotti;Esselunga
+03/09/2020;balconi chocofr;1.65;1;10;none;Esselunga
+03/09/2020;ex.v olio terra iblei;13.69;1;4;olio;Esselunga
+03/09/2020;ex.v verg segreto dei;12.98;1;4;olio;Esselunga
+03/09/2020;riso basmati;3.29;1;4;riso;Esselunga
+03/09/2020;latte delattosato uht;5.34;6;4;latte;Esselunga
+03/09/2020;farina semola grano duro;1.19;1;4;farina;Esselunga
+03/09/2020;farina o mettone;0.75;1;4;farina;Esselunga
+03/09/2020;farina semola grano duro;1.19;1;4;farina;Esselunga
+03/09/2020;farina o mettone;0.75;1;4;farina;Esselunga
+03/09/2020;farina manitoba;1.38;2;4;farina;Esselunga
+03/09/2020;farina semola grano duro;1.19;1;4;farina;Esselunga
+03/09/2020;yogurt fragola;0.79;1;10;yogurt;Esselunga
+03/09/2020;yogurt fragola;0.79;1;10;yogurt;Esselunga
+03/09/2020;yogurt bianco intero;0.79;1;10;yogurt;Esselunga
+03/09/2020;yougurt intero vipiteno;1.79;8;10;yogurt;Esselunga
+03/09/2020;parmiggiano reggiano;10.13;1;4;formaggio;Esselunga
+03/09/2020;arricchio porv piccante;2.78;1;4;formaggio;Esselunga
+03/09/2020;smart burro;3.38;1;4;burro;Esselunga
+03/09/2020;salmone affumicato;4.15;1;10;pesce;Esselunga
+03/09/2020;ricotta;0.99;1;4;formaggio;Esselunga
+03/09/2020;crackers salati;1.15;1;4;cracker;Esselunga
+03/09/2020;taralli classici;1.59;1;4;cracker;Esselunga
+03/09/2020;rio mare filo olio;4.99;1;10;pesce;Esselunga
+03/09/2020;carta igenica;1.99;1;22;carta igenica;Esselunga
+03/09/2020;pan di stelle;2.58;1;22;biscotti;Esselunga
+03/09/2020;filetto aringa;2.76;1;10;pesce;Esselunga
+03/09/2020;suino spiedini;4.69;1;10;carne rossa;Esselunga
+03/09/2020;pollo petti;6.29;1;10;carne bianca;Esselunga
+03/09/2020;pollo ali;2.10;1;10;carne bianca;Esselunga
+03/09/2020;shopper;1.00;10;22;borsa spesa;Esselunga
+05/09/2020;coca cola zero;2.95;5;22;bevande;Lidl
+05/09/2020;gelato cioccolato;1.99;1;10;gelato;Lidl
+05/09/2020;ghiaccioli assortiti;1.49;1;10;ghiaccioli;Lidl
+05/09/2020;controfil. di pollo;3.99;1;10;carne bianca;Lidl
+05/09/2020;shopper biodegradabile;0.1;1;22;borsa spesa;Lidl
+05/09/2020;rustiguette;0.69;1;4;pane;Lidl
+05/09/2020;filone di semola;1.49;1;4;pane;Lidl
+05/09/2020;albume d'uovo;2.98;2;22;albume d'uovo;Lidl
+05/09/2020;rustiguette;0.69;1;4;pane;Lidl
+06/09/2020;crocch.can.balance;1.99;1;22;none;Lidl
+06/09/2020;rucola;0.99;1;4;verdura;Lidl
+06/09/2020;baguette;0.78;2;4;pane;Lidl
+06/09/2020;tartare di scottona;2.99;1;10;carne rossa;Lidl
+06/09/2020;controfil. di pollo;3.99;1;10;carne bianca;Lidl
+08/09/2020;limonata 12%;0.59;1;22;bevande;Lidl
+08/09/2020;melone giallo;1.92;1;4;frutta;Lidl
+08/09/2020;mandorle pelate;1.29;1;4;frutta secca;Lidl
+08/09/2020;yoga succo ace;1.19;1;22;bevande;Lidl
+08/09/2020;passata pomodoro;0.79;1;4;passata-pomodoro;Lidl
+08/09/2020;cioccolato arriba;4.17;3;10;dolce;Lidl
+08/09/2020;yoga succo pera;1.19;1;22;bevande;Lidl
+08/09/2020;cappuccio;1.36;1;4;verdura;Lidl
+08/09/2020;prosciutto cotto;2.39;1;10;affettato;Lidl
+08/09/2020;cetrioli aromatizzati;1.15;1;10;verdura;Lidl
+08/09/2020;baguette;0.78;2;4;pane;Lidl
+08/09/2020;grana padano dop;1.29;1;4;formaggio;Lidl
+08/09/2020;gorgonzola dolce do;1.99;1;4;formaggio;Lidl
+08/09/2020;pansotti al pesto;1.98;1;10;none;Lidl
+08/09/2020;mele rosse;2.79;1;4;frutta;Lidl
+08/09/2020;banane;1.29;1;4;frutta;Lidl
+08/09/2020;pane di semola;0.99;1;4;pane;Lidl
+08/09/2020;speck di trancio;4.08;1;10;affettato;Lidl
+08/09/2020;formaggio tomino;1.65;1;4;formaggio;Lidl
+10/09/2020;acqua naturale;5.10;30;22;acqua;Lidl
+10/09/2020;savoiardi;2.18;2;10;biscotti;Lidl
+10/09/2020;melone giallo;1.44;1;4;frutta;Lidl
+10/09/2020;bresaola;2.19;1;10;affettato;Lidl
+10/09/2020;mascarpone;1.78;2;4;mascarpone;Lidl
+10/09/2020;filetti alici marinate;2.99;1;10;pesce;Lidl
+10/09/2020;uva bianca senza semi;1.59;1;4;frutta;Lidl
+10/09/2020;busta 10pal.metal;5.80;2;22;none;Conad
+10/09/2020;acet;0.84;1;10;aceto;Conad
+10/09/2020;pen.sf.cristal;2.69;1;22;none;Conad
+10/09/2020;nettare albicocca conad;0.68;1;22;bevande;Conad
+10/09/2020;nettare pesca conad;0.68;1;22;bevande;Conad
+10/09/2020;nettare pera conad;0.68;1;22;bevande;Conad
+10/09/2020;coprimaxi pvc lacc;1.29;1;22;none;Conad
+12/09/2020;pane speciale;1.34;1;4;pane;Conad
+12/09/2020;pane speciale;1.09;1;4;pane;Conad
+12/09/2020;banane;0.98;1;4;frutta;Conad
+12/09/2020;melone giallo;2.33;1;4;frutta;Conad
+12/09/2020;cappuccio bianco;1.78;1;4;verdura;Conad
+12/09/2020;zucchero semolato;0.92;1;10;zucchero;Conad
+12/09/2020;biscotti golosi;1.00;1;4;biscotti;Conad
+12/09/2020;passata classica;0.85;1;4;passata pomodoro;Conad
+12/09/2020;amm.concentrata;2.98;1;4;none;Conad
+12/09/2020;ditaloni;0.39;1;4;none;Conad
+12/09/2020;farfalle;0.39;1;4;none;Conad
+12/09/2020;pane integrale a fette;0.75;1;4;pane;Conad
+12/09/2020;yogurt conad natura;2.18;2;10;yogurt;Conad
+12/09/2020;ricambi a4 ring;1.99;1;22;none;Conad
+12/09/2020;fagioli;1.49;1;10;verdura;Conad
+12/09/2020;lamp.led;2.79;1;22;none;Conad
+12/09/2020;extra alimentare;2.99;1;22;none;Conad
+12/09/2020;farfalle;0.39;1;4;pasta;Conad
+12/09/2020;scalogno;1.49;1;4;verdura;Conad
+12/09/2020;carc salati conad;1.00;1;4;cracker;Conad
+12/09/2020;uva italia;3.98;1;4;frutta;Conad
+13/09/2020;fesa tacchino tranci;5.99;1;10;carne-bianca;Lidl 
+13/09/2020;bocconcini tacchino;3.49;1;10;carne bianca;Lidl 
+13/09/2020;baguette;0.78;2;4;pane;Lidl 
+13/09/2020;tav.eff.vitamine;1.29;1;10;integratore;Lidl 
+13/09/2020;albume d'uovo;2.98;2;22;albume d'uovo;Lidl 
+13/09/2020;rucola;0.99;1;4;verdura;Lidl 
